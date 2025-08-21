@@ -2,7 +2,10 @@
 
 **Digital Architect | Web Innovator | Code Artist**
 
-I'm an indie IT Engineer, Game Developer, and 3D Animator building my version of the digital world one step at a time. All my technical projects are crafted from the ground up — from initial planning and design to solving real-world challenges through innovative solutions. Every game and animation I create follows the same approach, from ideation and storyboarding to polishing the final product with artistic and technical precision.
+Motivated Computer Science and Engineering student specializing in Full-Stack Development, IoT, and 
+Machine Learning. Skilled in designing scalable applications, database management, and software optimization, 
+with internship experience in React.js and Node.js. Passionate about solving real-world problems through 
+innovative projects.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="42" height="42" /></a>
