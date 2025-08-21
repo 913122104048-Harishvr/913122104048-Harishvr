@@ -10,7 +10,7 @@ innovative projects.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://java.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://java.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://github.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="42" height="42" /></a>
 <a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
