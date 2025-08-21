@@ -27,11 +27,11 @@ innovative projects.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thersksanjai&show_icons=true&locale=en" alt="GitHub Stats" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=913122104048-Harishvr&show_icons=true&locale=en" alt="GitHub Stats" width="500" />
     </td>
     <td style="vertical-align: top;">
       <div style="padding-bottom: 70px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thersksanjai&" alt="GitHub Streak" width="500" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=913122104048-Harishvr&" alt="GitHub Streak" width="500" />
       </div>
     </td>
   </tr>
