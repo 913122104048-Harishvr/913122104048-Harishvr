@@ -10,14 +10,12 @@ innovative projects.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://cplusplus.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://java.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://www.linux.org/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://github.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="42" height="42" /></a>
 <a target="_blank" href="https://code.visualstudio.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" /></a>
-<a target="_blank" href="https://www.blender.org/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://www.unrealengine.com/" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="42" height="42" /></a>
-<a target="_blank" href="https://www.adobe.com/products/photoshop.html" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="photoshop" width="42" height="42" /</a></p>
+
+
 <h2>⚡ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/harrish_vr" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://x.com/harish92145652" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
