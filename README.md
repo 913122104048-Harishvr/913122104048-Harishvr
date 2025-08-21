@@ -1,6 +1,6 @@
-# 🏄‍♂ Sanjai
+# 🏄‍♂ Harish VR
 
-**IT Engineer | Game Developer | 3D Animator**
+**Digital Architect | Web Innovator | Code Artist**
 
 I'm an indie IT Engineer, Game Developer, and 3D Animator building my version of the digital world one step at a time. All my technical projects are crafted from the ground up — from initial planning and design to solving real-world challenges through innovative solutions. Every game and animation I create follows the same approach, from ideation and storyboarding to polishing the final product with artistic and technical precision.
 
